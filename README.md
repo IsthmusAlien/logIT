@@ -10,7 +10,7 @@ Download it from [here](https://raw.githubusercontent.com/IsthmusAlien/logIT/mai
 
 ![final-3](https://github.com/IsthmusAlien/logIT/assets/131596732/251dbbbc-1fa1-4120-9700-f7feec1a6e93)
 
-![final-4](https://github.com/IsthmusAlien/logIT/assets/131596732/5eabbaa6-9331-4b9e-a842-042f623c0cee)
+![final-4](https://github.com/IsthmusAlien/logIT/assets/131596732/425a0928-4ec0-4d7a-b94f-a5c55e3901c4)
 
 ### Dependencies
 
